@@ -1,6 +1,12 @@
 # ai_ready_data_framework
 Open standards AI Ready Data Framework
 
+## Secret to Success
+
+1. Establish small data products
+2. Create an initial core product to establish MVP
+3. Refine as the eco system of enriched data expands
+
 ## Framework Outline
 
 * Step 1 — Creating an Intelligence Layer of Data Architecture
